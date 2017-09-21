@@ -1,6 +1,6 @@
 **Part 3: Sanbot Development FAQ**
 
-----
+---
 
 3.1 How can I getSanbotdeveloper firmware?
 
@@ -25,4 +25,6 @@
 3.10How can I keep screen on all the time when my app is running?
 
 
+
+----
 

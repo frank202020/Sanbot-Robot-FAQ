@@ -33,6 +33,6 @@
   * [3.9 Why I can not getUnitManager call?](part3/q3.9.md)
   * [3.10 Why I said “hi Sanbot, the robot does react ,but the callbacks are not called?](part3/q3.10.md)
   * [3.11  How can I keep screen on all the time when my app is running? ](part3/q3.11.md)
-  * [3.12 Why I said “hi Sanbot, the robot does react ,but the callbacks are not called?](part3/q3.12.md)
+  * [3.12 Why I said “hi Sanbot, th robot does react ,but the callbacks are not called?](part3/q3.12.md)
   * [3.13  How can I keep screen on all the time when my app is running? ](part3/q3.13.md)
 
