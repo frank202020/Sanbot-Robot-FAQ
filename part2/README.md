@@ -1,6 +1,6 @@
 **Part 2: Sanbot Daily Use FAQ**
 
-----
+---
 
 2.1 Your account was disabled, please contact official company to active it ?
 
@@ -21,4 +21,8 @@
 2.9 How to flashSanbotfirmware?
 
 2.10 How do I know my robot ID and firmware version?
+
+
+
+----
 
