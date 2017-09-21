@@ -1,6 +1,6 @@
 **Part 1: Sanbot Unbox FAQ**
 
-----
+---
 
 1.1 What’s in the box?
 
@@ -19,4 +19,8 @@
 1.8 How to perform hardware test？
 
 
+
+
+
+----
 
