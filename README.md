@@ -10,9 +10,9 @@ Here is the content of this FAQ book. They are :
 
 [**Part 3: Sanbot Development FAQ**](https://frank202020.gitbooks.io/sanbot-robot-faq/content/part3/)
 
-
-
 **Note: You can click which part you are interested in ,then it will take you directly to this part.**
 
-----
+---
+
+
 
